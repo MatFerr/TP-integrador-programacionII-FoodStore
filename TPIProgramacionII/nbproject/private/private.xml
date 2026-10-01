@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/entities/DetallePedido.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/ui/PedidoUI.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/Main/Main.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/ui/ProductoUI.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/services/ProductoServiceImpl.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/ui/CategoriaUI.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/META/persistence.xml</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/services/PedidoServiceImpl.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/dao/ProductoDaoImpl.java</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/db/schema.sql</file>
+            <file>file:/C:/Users/matia/Documents/NetBeansProjects/TPIProgramacionII/src/services/CategoriaServiceImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
