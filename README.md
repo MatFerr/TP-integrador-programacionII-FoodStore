@@ -21,7 +21,11 @@ El proyecto no utiliza gestores de dependencias. La conexión a la base de datos
  - Descarga el conector oficial `mysql-connector-j-*.jar` desde MySQL Connector/J.
  - Coloca el archivo `.jar` en la carpeta `lib/` del proyecto.
 
+##  Configuración de la Base de Datos
+
+- Dentro de la carpeta `tpiprogramacionII`, se encuentra una carpeta `db` donde alli se almacena el script a ejecutar en MySQL para la creacion de la base de datos y sus dos tablas: `categorias` y `productos`
+
 ## Entregables
-- **Video Demostrativo:** 
-- **Documentación Académica:**
+- **Video Demostrativo:** `https://youtu.be/-qWhChL2pz0`
+- **Documentación Académica:** `tpiprogramacionII.pdf` nombre de la carpeta donde se encuentra el marco teorico, explicacion de las relaciones, entidades usadas, capturas de pantalla, etc.
 - **Codigo Base de Java en NetBeans:** `tpiprogramacionII` nombre de la carpeta donde esta almacenado todo el codigo base del proyecto
